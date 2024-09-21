@@ -10,7 +10,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Plans](#future-plans)
-- [Dependencies](#dependencies)
 
 ## Description
 
