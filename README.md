@@ -15,6 +15,7 @@
 
 OS-Core is designed to build foundational knowledge in operating system development. By implementing essential components such as the BIOS interface, bootloader, and kernel, this project provides a comprehensive understanding of how operating systems interact with hardware and manage resources.
 
+<img src=""C:\Users\adisi\Downloads\Diagram.png" alt="diagram" />
 ## Features
 
 - **BIOS Interaction:** Handles low-level hardware initialization and bootstrapping.
