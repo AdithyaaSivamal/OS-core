@@ -54,7 +54,7 @@ git clone git@github.com:your_username/OS-Core.git
 cd OS-Core
 ```
 Compile the Project
-Use the provided Makefile to build the project:
+Navigate to the /build directory and use the provided Makefile to build the project:
 
 ```bash
 make
@@ -71,7 +71,7 @@ Run the Operating System in QEMU
 After successfully building the project, you can run the operating system using QEMU:
 
 ```bash
-qemu-system-i386 -fda bin/os.img -boot a
+qemu-system-i386 -fda ../bin/os.img -boot a
 ```
 Explanation of Flags:
 
