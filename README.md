@@ -40,8 +40,9 @@ Ensure you are running Ubuntu (or a similar Linux distribution) and have the fol
 
  ```bash
  sudo apt install nasm
-QEMU: Emulator for running and testing the operating system.
 ```
+
+- **QEMU**: Emulator for running and testing the operating system.
 ```bash
 sudo apt install qemu
 ```
@@ -53,7 +54,7 @@ First, clone the repository to your local machine:
 git clone git@github.com:your_username/OS-Core.git
 cd OS-Core
 ```
-Compile the Project
+## Compile the Project
 Navigate to the /build directory and use the provided Makefile to build the project:
 
 ```bash
