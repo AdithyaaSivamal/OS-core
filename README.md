@@ -91,7 +91,7 @@ qemu-system-i386 -fda bin/os.img -boot a -serial stdio
 Filesystem Support: Develop a basic filesystem to handle file storage and retrieval.
 - **Process Management**: Implement multitasking capabilities with process scheduling.
 - **Driver Development**: Create drivers for essential hardware components like keyboards, displays, and storage devices.
-- **User Interface: Develop a simple shell or graphical interface for user interaction.
+- **User Interface**: Develop a simple shell or graphical interface for user interaction.
 - **Networking Capabilities**: Add basic networking support to enable communication between systems.
 
 
