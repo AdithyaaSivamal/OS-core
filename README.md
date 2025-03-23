@@ -88,7 +88,7 @@ qemu-system-i386 -fda bin/os.img -boot a -serial stdio
 
 ## Future Plans
 - **Paging Implementation**: Introduce paging mechanisms to enhance memory management and provide virtual memory support.
-Filesystem Support: Develop a basic filesystem to handle file storage and retrieval.
+- **Filesystem Support**: Develop a basic filesystem to handle file storage and retrieval.
 - **Process Management**: Implement multitasking capabilities with process scheduling.
 - **Driver Development**: Create drivers for essential hardware components like keyboards, displays, and storage devices.
 - **User Interface**: Develop a simple shell or graphical interface for user interaction.
